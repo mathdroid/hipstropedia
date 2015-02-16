@@ -116,6 +116,11 @@ ul {
 #mw-head {
   background-color: #EEE;
 }
+
+div#mw-head div.vectorMenu h3 {
+  background-image: none!important;
+}
+
 div.vectorTabs, div.vectorTabs::before, div.vectorTabs::after {
   background-image:none!important;
 }
