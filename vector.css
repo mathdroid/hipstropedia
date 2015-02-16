@@ -78,6 +78,9 @@ body {
   background: none;
   font-size: 16pt;
 }
+.mw-wiki-logo {
+  background-image: 'https://raw.githubusercontent.com/mathdroid/hipstropedia/master/wikipedia2.png'!important;
+}
 #right-navigation {
   background-image:none!important;
 }
