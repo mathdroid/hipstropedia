@@ -1,6 +1,9 @@
 ![old screenshot](https://raw.githubusercontent.com/mathdroid/hipstropedia/master/Screenshot-new.png)
+
 to
-![hipstropedia screenshot](https://raw.githubusercontent.com/mathdroid/hipstropedia/master/Screenshot-new.png)
+
+![hipstropedia screenshot](https://raw.githubusercontent.com/mathdroid/hipstropedia/master/Screenshot-hip.png)
+
 # hipstropedia
 hipster look for your wikipedia. Add them to https://en.wikipedia.org/wiki/User:&lt;YOUR_USERNAME_HERE>/vector.&lt;JS/CSS>
 
